@@ -2,4 +2,5 @@ flask
 tensorflow
 pillow
 numpy
+gunicorn
 google-cloud-storage
